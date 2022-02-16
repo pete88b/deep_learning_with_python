@@ -132,3 +132,9 @@ dmypy.json
 _tmp
 tmp
 *_tmp.*
+
+.data/
+data/
+
+# sould have moved this to data folder
+jena_climate_2009_2016.csv.zip

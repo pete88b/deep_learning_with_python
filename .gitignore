@@ -130,6 +130,7 @@ dmypy.json
 
 # Exclude temp files
 _tmp
+_tmp*
 tmp
 *_tmp.*
 
